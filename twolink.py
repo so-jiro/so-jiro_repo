@@ -1,13 +1,7 @@
 """
-Inverse kinematics of a two-joint arm
-Left-click the plot to set the goal position of the end effector
+quote from pythonrobotics
 
-Author: Daniel Ingram (daniel-s-ingram)
-        Atsushi Sakai (@Atsushi_twi)
-
-Ref: P. I. Corke, "Robotics, Vision & Control", Springer 2017, ISBN 978-3-319-54413-7 p102
-- [Robotics, Vision and Control \| SpringerLink](https://link.springer.com/book/10.1007/978-3-642-20144-8)
-aa
+this is only test file
 """
 
 import matplotlib.pyplot as plt
